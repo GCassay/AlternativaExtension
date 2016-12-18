@@ -1,4 +1,4 @@
-var rolRecargadorTop = {
+var rolRecargadorTop = { 
 
 	run: function(creep) {
 	    creep.say("R TOP");
